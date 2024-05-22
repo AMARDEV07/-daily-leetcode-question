@@ -7,7 +7,7 @@ Welcome to the CPP_With_DSA GitHub repository! This repository is dedicated to a
 ## 🔗 May question.
 
 
-|   |       |
+|   |       |     |    |
 | ----------------- | ------------------------------------------------------------------ 
 | DAY | NAME | QUESTION NO |  difficulty  |
 |day 1|dublicate array| 217  |  easy|
