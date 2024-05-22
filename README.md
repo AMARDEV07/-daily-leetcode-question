@@ -8,8 +8,10 @@ This repository is dedicated to a 🌟 100-day DSA (Data Structures and Algorith
 ## 🗿🔗🔗May question.
 
 Week 1: Getting Started
-Day 1:  💕 duplicate array
-Day 2: 
+
+• Day 1:  💕 duplicate array
+
+• Day 2: 
 
 
 
