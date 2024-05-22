@@ -11,7 +11,7 @@ Week 1: Getting Started
 
 • Day 1:  💕 duplicate array
 
-• Day 2: 
+• Day 2: Search in Rotated Sorted Array[imp]
 
 
 
