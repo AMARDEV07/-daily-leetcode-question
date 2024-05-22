@@ -8,7 +8,7 @@ This repository is dedicated to a 🌟 100-day DSA (Data Structures and Algorith
 ## 🗿🔗🔗May question.
 week 1:started🎮
 
-Day 1: ©️dulicate array.
+•Day 1: ©️dulicate array.
 
 Day 2:
 
