@@ -5,7 +5,10 @@ Welcome to the CPP_With_DSA GitHub repository! This repository is dedicated to a
 
 
 ## 🔗 May question.
- day 1   dublicatearray    medium   201
+week 1:started.
+Day 1: dulicate array.
+Day 2:
+
 
 
 
