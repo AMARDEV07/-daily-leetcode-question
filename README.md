@@ -1,13 +1,14 @@
 
 # DSA LEETCODE QUESTION WITH C++.🔗 
-Welcome to the CPP_With_DSA GitHub repository! This repository is dedicated to a 🌟 100-day DSA (Data Structures and Algorithms) challenge 🌟 using C++. Each day, I will be posting new questions and solutions, covering a wide range of DSA topics. Follow along to improve your C++ skills and prepare effectively for coding interviews.
+Welcome to the CPP_With_DSA GitHub repository! ...
+This repository is dedicated to a 🌟 100-day DSA (Data Structures and Algorithms) challenge 🌟 using C++. Each day, I will be posting new questions and solutions, covering a wide range of DSA topics. Follow along to improve your C++ skills and prepare effectively for coding interviews.
 
 
 
-## 🔗 May question.
-week 1:started.
+## 🗿🔗🔗May question.
+week 1:started🎮
 
-Day 1: dulicate array.
+Day 1: ©️dulicate array.
 
 Day 2:
 
