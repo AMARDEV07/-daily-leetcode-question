@@ -13,7 +13,7 @@ Week 1: Getting Started
 
 • Day 2: 🔎Search in Rotated Sorted Array[imp]✅
 
-• Day 3: max product of subarray.
+• Day 3: 🤗max product of subarray.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
