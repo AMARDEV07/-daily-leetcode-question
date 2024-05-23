@@ -1,0 +1,61 @@
+
+
+
+// optmise solution......
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        int maxproduct=nums[0];  // cretae max,or min and init with first index of arr.
+        int minproduct=nums[0];
+        int ans=maxproduct;
+
+
+        for(int i=1;i<nums.size();i++){   // traves loop from 1ton;
+          int currentproduct=nums[i];    //int current value with arr[i]
+;
+          
+            int tempmax=max(currentproduct,max(maxproduct*currentproduct,minproduct*currentproduct));   // create temp or then compare * all val.
+             minproduct=min(currentproduct,min(maxproduct*currentproduct,minproduct*currentproduct));
+          
+             maxproduct=tempmax;    
+             ans=max(maxproduct,ans);
+
+
+        }
+        return ans;
+        
+    }
+};
+//sol 2....................................................
+#include<iostream>
+using namespace std;
+   int productOfsubarray(int *nums,int n){
+    int maxproduct=nums[0];
+
+
+
+    for(int start=0;start<n;start++){
+        int currentproduct=1;
+        for(int end=start;end<n;end++){
+        currentproduct=currentproduct*nums[end];
+         maxproduct=max(maxproduct,currentproduct);
+        
+       
+        }
+        
+}
+return maxproduct;
+
+
+  }
+
+
+ int main(){
+  
+        int nums[]={2,3,-2,4};
+        int n=sizeof(nums)/sizeof(int);
+        cout<<"max prouct is"<<productOfsubarray(nums,n);
+    
+       
+    
+return 0;
