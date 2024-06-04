@@ -1,0 +1,24 @@
+class Solution {
+public:
+    vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
+         int len=original.size();
+        if(len!=m*n) //check size means oeginal arr= ro not =col or rows..
+        return {};
+   vector<vector<int>> ans(m,vector<int>(n));
+         int x=0;//init ist value of 1d you can write it arr[i];
+        for(int i=0;i<m;i++){//col travese.....
+            for(int j=0;j<n;j++){//row travese loop......
+                ans[i][j]=original[x++];//ans is 2d created matrix....
+                //orginal is real first matrix..
+                
+
+            }
+           
+        }
+         return ans;//return matrix
+        
+    
+        
+    }
+    
+};
