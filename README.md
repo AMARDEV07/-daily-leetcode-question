@@ -15,9 +15,9 @@ Week 1: Getting Started
 
 • Day 3: 🤗max product of subarray.
 
-• Day 4: 🤗max product of subarray.
+• Day 4: ⏪Reverse integers.
 
-• Day 5: max product of subarray.
+• Day 5: 🤒Fibonacci no
 
 • Day 6: ✨convert 1d array in 2d  leetcode no (2022)..
 
