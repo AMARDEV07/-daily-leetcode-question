@@ -17,11 +17,11 @@ Week 1: Getting Started
 
 • Day 4: 🤗max product of subarray.
 
-• Day 5: 🤗max product of subarray.
+• Day 5: max product of subarray.
 
-• Day 6: convert 1d array in 2d  leetcode no 2022..
+• Day 6: ✨convert 1d array in 2d  leetcode no (2022)..
 
-• Day 7: 🤗max product of subarray.
+• Day 7:⏰ Rotate image (48).
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
