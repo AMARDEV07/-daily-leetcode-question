@@ -21,11 +21,11 @@ Week 1: Getting Started
 
 • Day 6: ✨convert 1d array in 2d  leetcode no (2022)..
 
-• Day 7:⏰ Rotate image (48).
+• Day 7:⏰  two sum (1).
 
-• Day 8:⏰ two sum ().
+• Day 8:⏰ valid palindrome(125).
 
-• Day 9:⏰ valid anagram.
+• Day 9:⏰ valid anagram(242).
 
 • Day 10:⏰ Rotate image (48).
 
