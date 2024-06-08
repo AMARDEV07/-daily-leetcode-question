@@ -1,0 +1,31 @@
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        if(s.length()!=t.length()){
+            return false;
+            //first check len of both string ..equal or not...
+
+        }
+        int count[26]={0};
+        //create new array with insit with zero...
+        for(int i=0;i<s.length();i++){
+        //then traves loop over first srting..
+            count[s[i]-'a']++;
+            //or count and chek position and letter..
+
+        }
+      for(int i=0;i<t.length();i++){
+        //traves loop over 2nd string
+         if(count[t[i]-'a']==0){
+                //or chek its count and position or also chek it if it equal zero then this is no valid anagram
+                return false;
+                //then return false/
+            }
+            count[t[i]-'a']--;
+            //or then chek postion and --;
+        }
+        return true;
+        //or sb sath h toh return true means valid ha...
+        
+    }
+};
