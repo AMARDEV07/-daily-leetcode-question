@@ -25,7 +25,11 @@ Week 1: Getting Started
 
 • Day 8:⏰ two sum ().
 
-• Day 9:⏰ Rotate image (48).
+• Day 9:⏰ valid anagram.
+
+• Day 10:⏰ Rotate image (48).
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
