@@ -1,1 +1,18 @@
-
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+    int n=nums.size();
+    int i=0,j=1;
+    while(j<n){
+        if(nums[i]!=nums[j]){
+            //when j get uniqe element then i goes next palce..
+            i++;
+        }
+        nums[i]=nums[j];
+        //when i =j same then j find unique element
+        j++;
+    }
+    return i+1;
+        
+    }
+};
