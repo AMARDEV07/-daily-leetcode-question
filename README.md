@@ -31,25 +31,47 @@ Week 1: Getting Started
 
 • Day 11:⏰ Remove dublicate from sorted array (26).
 
-• Day 10:⏰ Rotate image (48).
+• Day 12:⏰ Rotate Array (189).
 
-• Day 10:⏰ Rotate image (48).
+• Day 13:⏰Contains Duplicate(217).
 
-• Day 10:⏰ Rotate image (48).
+• Day 14:⏰  Move Zeroes(283).
 
-• Day 10:⏰ Rotate image (48).
+• Day 15:⏰ Set Mismatch(645).
 
-• Day 10:⏰ Rotate image (48).
+• Day 16:⏰ Missing Number (268).
 
-• Day 10:⏰ Rotate image (48).
+• Day 17:⏰. Check if Array Is Sorted and Rotated(1752).
 
-• Day 10:⏰ Rotate image (48).
+• Day 18:⏰Reverse String (344).
 
-• Day 10:⏰ Rotate image (48).
+• Day 19:⏰. Max Consecutive Ones (485).
 
-• Day 10:⏰ Rotate image (48).
+• Day 20:⏰Single Number (136).
 
-• Day 10:⏰ Rotate image (48).
+• Day 21:⏰ sort color(75).
+
+• Day 22:⏰ Find Xor-Beauty of Array Solved(2527).
+
+• Day 23:⏰169. Majority Element
+
+• Day 24:⏰229. Majority Element II
+
+• Day 25:⏰ 53. Maximum Subarray
+
+• Day 26:⏰ sort color(75).
+
+• Day 27:⏰ sort color(75).
+
+• Day 28:⏰ sort color(75).
+
+• Day 29:⏰ sort color(75).
+
+• Day 30:⏰ sort color(75).
+
+• Day 31:⏰ sort color(75).
+
+• Day 32:⏰ sort color(75).
 
 
 
