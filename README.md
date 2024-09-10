@@ -73,6 +73,59 @@ Week 1: Getting Started
 
 • Day 32:⏰ sort color(75).
 
+• Day 33:⏰ sort color(75).
+
+• Day 34:⏰ sort color(75).
+
+• Day 35:⏰ sort color(75).
+
+• Day 36:⏰ sort color(75).
+
+• Day 37:⏰ sort color(75).
+
+• Day 38:⏰ sort color(75).
+
+• Day 39:⏰ sort color(75).
+
+• Day 40:⏰ sort color(75).
+
+• Day 41:⏰ sort color(75).
+
+• Day 42:⏰ sort color(75).
+
+• Day 43:⏰ sort color(75).
+
+• Day 44:⏰ sort color(75).
+
+• Day 45:⏰ sort color(75).
+
+• Day 46:⏰ sort color(75).
+
+• Day 47:⏰ sort color(75).
+
+• Day 48:⏰ sort color(75).
+
+• Day 49:⏰ sort color(75).
+
+• Day 50:⏰ sort color(75).
+
+• Day 51:⏰ sort color(75).
+
+• Day 52:⏰ sort color(75).
+
+• Day 53:⏰ sort color(75).
+
+• Day 54:⏰ sort color(75).
+
+
+    --------LINKEDLIST-------------
+    
+• Day 55:⏰ DELECT NODE IN LINKEDLIST(273).
+
+• Day 56:⏰ MIDDEL OF LINKEDLIST(876).
+
+
+
 
 
 
