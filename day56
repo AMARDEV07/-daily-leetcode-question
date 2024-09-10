@@ -1,0 +1,24 @@
+ int getsize(ListNode* head) {
+        int size = 0;
+        while (head != NULL) {
+            size++;
+            head = head->next;
+        }
+        return size;
+    }
+
+    // Function to find the middle node
+    ListNode* middleNode(ListNode* head) {
+        // Fast and slow pointer approach to find the middle node
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        // Move fast by 2 steps and slow by 1 step
+        while (fast != NULL && fast->next != NULL) {
+            fast = fast->next->next;
+            slow = slow->next;
+        }
+        
+        // Return the slow pointer, which will be at the middle node
+        return slow;
+    }
